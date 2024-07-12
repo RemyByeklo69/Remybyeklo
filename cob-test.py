@@ -8,7 +8,7 @@ headers_1 = {
   'Accept': '*/*',
   'Accept-Language': 'en-US,en;q=0.9',
   'ApiKey': '3DB373CF32AC02834ED4A388F512980EF3D8ED3FEF92640F6DC3B2C20DEB2935',
-  'Authorization': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2Njg3MTY1ZmMzNDliYjkyODBjM2NmNjQiLCJodHRwOi8vc2NoZW1hcy5taWNyb3NvZnQuY29tL3dzLzIwMDgvMDYvaWRlbnRpdHkvY2xhaW1zL3JvbGUiOiJ1c2VyIiwibmJmIjoxNzIwNjgyMjc5LCJleHAiOjE3MjA3Njg2NzksImlzcyI6IlNwb29reSBIdW50ZXJzIiwiYXVkIjoiU3Bvb2t5IEh1bnRlcnMifQ.3Sz6apHX8-wNbOTKho0XOEUn1j3dh3TGObXm3cMUbhs',
+  'Authorization': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2Njg3MTY1ZmMzNDliYjkyODBjM2NmNjQiLCJodHRwOi8vc2NoZW1hcy5taWNyb3NvZnQuY29tL3dzLzIwMDgvMDYvaWRlbnRpdHkvY2xhaW1zL3JvbGUiOiJ1c2VyIiwibmJmIjoxNzIwNzc3ODY2LCJleHAiOjE3MjA4NjQyNjYsImlzcyI6IlNwb29reSBIdW50ZXJzIiwiYXVkIjoiU3Bvb2t5IEh1bnRlcnMifQ.pB6H04__LRGR1FPdQRg1g4CN2LYNeh3Xk8VgTLyx5og',
   'Connection': 'keep-alive',
   'Cookie': '_ga=GA1.1.199610205.1720025946; gtc_cookie=true; _ga_WT859GPG6Q=GS1.1.1720025946.1.1.1720025958.0.0.0; isPlaying=false; volume=0.2',
   'Referer': 'https://bloodlore-chronicles.com/hunt',
@@ -28,7 +28,7 @@ headers_2 = {
   'Accept': '*/*',
   'Accept-Language': 'en-US,en;q=0.9',
   'ApiKey': '3DB373CF32AC02834ED4A388F512980EF3D8ED3FEF92640F6DC3B2C20DEB2935',
-  'Authorization': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2Njg3MTY1ZmMzNDliYjkyODBjM2NmNjQiLCJodHRwOi8vc2NoZW1hcy5taWNyb3NvZnQuY29tL3dzLzIwMDgvMDYvaWRlbnRpdHkvY2xhaW1zL3JvbGUiOiJ1c2VyIiwibmJmIjoxNzIwNjgyMjc5LCJleHAiOjE3MjA3Njg2NzksImlzcyI6IlNwb29reSBIdW50ZXJzIiwiYXVkIjoiU3Bvb2t5IEh1bnRlcnMifQ.3Sz6apHX8-wNbOTKho0XOEUn1j3dh3TGObXm3cMUbhs',
+  'Authorization': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2Njg3MTY1ZmMzNDliYjkyODBjM2NmNjQiLCJodHRwOi8vc2NoZW1hcy5taWNyb3NvZnQuY29tL3dzLzIwMDgvMDYvaWRlbnRpdHkvY2xhaW1zL3JvbGUiOiJ1c2VyIiwibmJmIjoxNzIwNzc3ODY2LCJleHAiOjE3MjA4NjQyNjYsImlzcyI6IlNwb29reSBIdW50ZXJzIiwiYXVkIjoiU3Bvb2t5IEh1bnRlcnMifQ.pB6H04__LRGR1FPdQRg1g4CN2LYNeh3Xk8VgTLyx5og',
   'Connection': 'keep-alive',
   'Cookie': '_ga=GA1.1.199610205.1720025946; gtc_cookie=true; _ga_WT859GPG6Q=GS1.1.1720025946.1.1.1720025958.0.0.0; isPlaying=false; volume=0.2',
   'Referer': 'https://bloodlore-chronicles.com/hunt',
@@ -48,7 +48,7 @@ headers_3 = {
   'Accept': '*/*',
   'Accept-Language': 'en-US,en;q=0.9',
   'ApiKey': '3DB373CF32AC02834ED4A388F512980EF3D8ED3FEF92640F6DC3B2C20DEB2935',
-  'Authorization': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2Njg3MTY1ZmMzNDliYjkyODBjM2NmNjQiLCJodHRwOi8vc2NoZW1hcy5taWNyb3NvZnQuY29tL3dzLzIwMDgvMDYvaWRlbnRpdHkvY2xhaW1zL3JvbGUiOiJ1c2VyIiwibmJmIjoxNzIwNjgyMjc5LCJleHAiOjE3MjA3Njg2NzksImlzcyI6IlNwb29reSBIdW50ZXJzIiwiYXVkIjoiU3Bvb2t5IEh1bnRlcnMifQ.3Sz6apHX8-wNbOTKho0XOEUn1j3dh3TGObXm3cMUbhs',
+  'Authorization': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2Njg3MTY1ZmMzNDliYjkyODBjM2NmNjQiLCJodHRwOi8vc2NoZW1hcy5taWNyb3NvZnQuY29tL3dzLzIwMDgvMDYvaWRlbnRpdHkvY2xhaW1zL3JvbGUiOiJ1c2VyIiwibmJmIjoxNzIwNzc3ODY2LCJleHAiOjE3MjA4NjQyNjYsImlzcyI6IlNwb29reSBIdW50ZXJzIiwiYXVkIjoiU3Bvb2t5IEh1bnRlcnMifQ.pB6H04__LRGR1FPdQRg1g4CN2LYNeh3Xk8VgTLyx5og',
   'Connection': 'keep-alive',
   'Cookie': '_ga=GA1.1.199610205.1720025946; gtc_cookie=true; isPlaying=false; volume=0.2; _ga_WT859GPG6Q=GS1.1.1720025946.1.1.1720027011.0.0.0',
   'Referer': 'https://bloodlore-chronicles.com/weaponmaster',
@@ -67,7 +67,7 @@ headers_4 = {
     "Accept-Encoding": "gzip, deflate, br",
     "Accept-Language": "en-US,en;q=0.9",
     "ApiKey": "3DB373CF32AC02834ED4A388F512980EF3D8ED3FEF92640F6DC3B2C20DEB2935",
-    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2Njg3MTY1ZmMzNDliYjkyODBjM2NmNjQiLCJodHRwOi8vc2NoZW1hcy5taWNyb3NvZnQuY29tL3dzLzIwMDgvMDYvaWRlbnRpdHkvY2xhaW1zL3JvbGUiOiJ1c2VyIiwibmJmIjoxNzIwNjgyMjc5LCJleHAiOjE3MjA3Njg2NzksImlzcyI6IlNwb29reSBIdW50ZXJzIiwiYXVkIjoiU3Bvb2t5IEh1bnRlcnMifQ.3Sz6apHX8-wNbOTKho0XOEUn1j3dh3TGObXm3cMUbhs",
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2Njg3MTY1ZmMzNDliYjkyODBjM2NmNjQiLCJodHRwOi8vc2NoZW1hcy5taWNyb3NvZnQuY29tL3dzLzIwMDgvMDYvaWRlbnRpdHkvY2xhaW1zL3JvbGUiOiJ1c2VyIiwibmJmIjoxNzIwNzc3ODY2LCJleHAiOjE3MjA4NjQyNjYsImlzcyI6IlNwb29reSBIdW50ZXJzIiwiYXVkIjoiU3Bvb2t5IEh1bnRlcnMifQ.pB6H04__LRGR1FPdQRg1g4CN2LYNeh3Xk8VgTLyx5og",
     "Origin": "https://bloodlore-chronicles.com",
     "Referer": "https://bloodlore-chronicles.com/jewel",
     "Sec-Fetch-Dest": "empty",
@@ -121,4 +121,4 @@ while True:
         )
         print("Buy response status code: {}".format(buy_response.status_code))
         buy_counter = 0
-    time.sleep(random.randint(620, 660))
+    time.sleep(random.randint(620, 650))
