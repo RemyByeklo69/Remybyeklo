@@ -12,7 +12,7 @@ def get_next_hunt_time():
         'Authorization': 'Bearer {}'.format(bearer),
     }
 
-    response = requests.request("GET", url, headers=headers)
+    response = requests.request("GET", url, headers=header)
 
     next_hunt_time = response.json()['nextAllowedHuntTimeStamp']
 
