@@ -4,20 +4,6 @@ import random
 
 bearer = ""
 
-def get_next_hunt_time():
-    url = "https://bloodlore-chronicles.com/api/ClientUser/getme"
-
-    header = {
-        'ApiKey': '3DB373CF32AC02834ED4A388F512980EF3D8ED3FEF92640F6DC3B2C20DEB2935',
-        'Authorization': 'Bearer {}'.format(bearer),
-    }
-
-    response = requests.request("GET", url, headers=header)
-
-    next_hunt_time = response.json()['nextAllowedHuntTimeStamp']
-
-    return next_hunt_time
-
 def get_new_bearer():
     url = "https://bloodlore-chronicles.com/api/user/login"
 
@@ -76,17 +62,4 @@ while True:
 
     # Set the time to sleep depending on whether blood craze procced or not
     # Figure out whether blood craze procced or not depending on the next hunt time
-    next_hunt_time = get_next_hunt_time()
-    time_delta = next_hunt_time - int(time.time())
-
-    time.sleep(random.randint(time_delta + 15, time_delta + 45))
-
-# if buy_counter == 10:
-#     # Send the POST request
-#     buy_response = requests.post(
-#         url_3,
-#         headers=header,
-#         data=buy_body
-#     )
-#     print("Buy response status code: {}".format(buy_response.status_code))
-#     buy_counter = 0
+    
