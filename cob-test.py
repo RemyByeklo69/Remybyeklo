@@ -60,6 +60,8 @@ while True:
     hunt_response = requests.request("GET", url_2, headers=header)
     print("Quick hunt status code: {}".format(hunt_response.status_code))
 
+    time.sleep(random.randint(610,625))
+
     # Set the time to sleep depending on whether blood craze procced or not
     # Figure out whether blood craze procced or not depending on the next hunt time
     
